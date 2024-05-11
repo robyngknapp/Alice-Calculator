@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [Scholarship for Foreign Students in Canada](README.md)
